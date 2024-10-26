@@ -1,0 +1,13 @@
+
+Fully compiled python file Dependencies should be installed in terminal they are :
+1. kaggle hub
+2. drive
+3. google.colab
+4. os
+5. transformers
+6. PIL
+7. image
+8. pandas
+9. matplotlib.pyplot
+10. matplotlib.image
+
